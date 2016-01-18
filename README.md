@@ -4,7 +4,7 @@
 
 Custom application and document icons for MacDown 
 
-Contents:
+##### Contents:
 
 - README.md
 - Appicon
