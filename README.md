@@ -24,5 +24,6 @@ Custom application and document icons for MacDown
 - [http://macdown.uranusjr.com](http://macdown.uranusjr.com)
 - [https://gitter.im/uranusjr/macdown](https://gitter.im/uranusjr/macdown)
 - [http://ugajin.co.uk/sketchbooks/sketchbook_6/myHelp.html](http://ugajin.co.uk/sketchbooks/sketchbook_6/myHelp.html)
+- [https://github.com/uranusjr/macdown.git](https://github.com/uranusjr/macdown.git)
 
 
